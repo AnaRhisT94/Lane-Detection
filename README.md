@@ -1,4 +1,4 @@
-# Project Title
+# Lane Detection
 
 In this project, I used Python and OpenCV to find lane lines in the road images. 
 The following techniques are used:
