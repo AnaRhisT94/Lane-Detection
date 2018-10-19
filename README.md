@@ -1,5 +1,6 @@
 # Lane Detection
-![alt text](https://user-images.githubusercontent.com/33227900/47238255-4ba96200-d3ea-11e8-89f0-36b9ff1bbcac.png)
+![alt text](https://user-images.githubusercontent.com/33227900/47238309-785d7980-d3ea-11e8-8e36-349a9ab26f5b.png)
+
 In this project, I used Python and OpenCV to find lane lines in the road images. 
 The following techniques are used:
 
